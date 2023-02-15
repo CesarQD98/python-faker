@@ -1,0 +1,30 @@
+[
+  {
+    "id": "yHC-859",
+    "title": "Soria S.A.",
+    "price": 7.58,
+    "description": "Quaerat ex quaerat.",
+    "category": []
+  },
+  {
+    "id": "NQx-983",
+    "title": "Grupo de la Crúz-Quezada",
+    "price": 6.23,
+    "description": "Consectetur.",
+    "category": []
+  },
+  {
+    "id": "huW-149",
+    "title": "Laboratorios Echeverría, Villanueva y Casas",
+    "price": 1.6,
+    "description": "Vero id ex quas.",
+    "category": []
+  },
+  {
+    "id": "dnP-935",
+    "title": "Club Partida y Camarillo",
+    "price": 3.8,
+    "description": "Occaecati quis.",
+    "category": []
+  }
+]
