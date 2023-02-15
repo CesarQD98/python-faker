@@ -1,0 +1,30 @@
+[
+  {
+    "id": "oWO-844",
+    "title": "Baeza-Cornejo S.A.",
+    "price": 10.9,
+    "description": "Nemo debitis.",
+    "category": []
+  },
+  {
+    "id": "xPR-969",
+    "title": "Proyectos Ledesma y Sanabria",
+    "price": 3.11,
+    "description": "Ullam cum quisquam.",
+    "category": []
+  },
+  {
+    "id": "JgO-754",
+    "title": "Zavala, Guevara y Tamez",
+    "price": 2.84,
+    "description": "Delectus amet.",
+    "category": []
+  },
+  {
+    "id": "CPY-240",
+    "title": "Club Aponte, Hinojosa y Carrión",
+    "price": 7.08,
+    "description": "Dolorem eligendi.",
+    "category": []
+  }
+]
