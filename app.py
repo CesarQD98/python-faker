@@ -35,5 +35,5 @@ def generarFakeData(cantidad: int):
         f.write("%s\n" % json.dumps(output_data, indent=2, ensure_ascii=False))
     f.close
 
+    print("*** Han sido creadas %d instancias ***" % cantidad)
 
-generarFakeData(4)
