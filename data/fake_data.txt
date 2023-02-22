@@ -1,0 +1,30 @@
+[
+  {
+    "id": "FDl-251",
+    "title": "Cabán-Sepúlveda S.A.",
+    "price": 3.15,
+    "description": "Voluptatibus saepe.",
+    "category": []
+  },
+  {
+    "id": "jii-665",
+    "title": "Despacho Sosa, Aparicio y Tapia",
+    "price": 8.54,
+    "description": "Architecto fugit.",
+    "category": []
+  },
+  {
+    "id": "iyY-509",
+    "title": "Valadez S. R.L. de C.V.",
+    "price": 10.16,
+    "description": "Dolorum culpa autem.",
+    "category": []
+  },
+  {
+    "id": "Nvp-675",
+    "title": "Canales-Urías S.A. de C.V.",
+    "price": 8.43,
+    "description": "Deleniti minus.",
+    "category": []
+  }
+]
